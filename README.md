@@ -9,4 +9,4 @@ This project demonstrates the end-to-end security lifecycle for an enterprise Ub
 * **Reconnaissance:** Nmap, Zenmap
 * **Vulnerability Management:** Nessus, Nikto
 * **Defensive Controls:** UFW (Firewall), Fail2Ban, OpenSSL[cite: 1]
-* **Forensics:** Wireshark (Deep Packet Inspection)[cite: 1]
+* **Forensics:** Wireshark (Deep Packet Inspection)[cite: 1] 
